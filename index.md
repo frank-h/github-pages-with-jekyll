@@ -1,3 +1,8 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hello world.
+中文字。
+
+- item 1
+- item 2
+- item 3
